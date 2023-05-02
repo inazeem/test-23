@@ -52,4 +52,3 @@ Please keep commiting changes as you go.
 
 ## Copyright
 All trademarks as the property of their respective owners.
-
